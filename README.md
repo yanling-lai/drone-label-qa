@@ -64,3 +64,8 @@ Outputs in `outputs/qa/`: `qa_report.md`, one CSV of flagged boxes per check,
 VisDrone2019-DET by the AISKYEYE team, Tianjin University
 ([github.com/VisDrone/VisDrone-Dataset](https://github.com/VisDrone/VisDrone-Dataset)),
 for non-commercial research use. The dataset itself is not included in this repo.
+
+## License
+
+Code in this repo is licensed under [AGPL-3.0](LICENSE), matching the license of the
+[Ultralytics](https://github.com/ultralytics/ultralytics) YOLO package used in the later steps.
